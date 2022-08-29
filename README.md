@@ -50,7 +50,7 @@ URLFinder.exe -s all -m 2 -f url.txt -o d:/
 -f  批量url抓取，需指定url文本路径  
 -o  结果导出到csv文件，需指定导出文件目录（.代表当前目录）
 ```
-##编译  
+## 编译  
 以下是在windows环境下，编译出各平台可执行文件的命令  
 
 ```
